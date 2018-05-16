@@ -1,1 +1,1 @@
-EGit解除联系后  提交远程github 
+1.EGit解除联系后  提交远程github 
